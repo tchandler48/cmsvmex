@@ -1,0 +1,11 @@
+
+
+Change Log for VMEX
+		NOTE:  Code cleanup and comments to code are NOT Listed.
+
+02/02/2021	Added POW function to VMEX.
+
+02/02/2021	Added Mixed Mode Math processing
+
+02/02/2021	Initial Code published.
+
